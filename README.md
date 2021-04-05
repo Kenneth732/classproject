@@ -20,4 +20,4 @@ To access this project on your local files, you can clone it using these steps
 2. CSS
 3. Git
 ### Live Site
-View [live](https://kenneth.github.…
+View [live](https://kenneth732.github.io/classproject/)
